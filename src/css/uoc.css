@@ -278,6 +278,7 @@ y le añadimos el borde inferior*/
 	display: block;
 	margin:2px 0px 30px 0px;
 	width: 100%;
+	background-color: #F0F0F0;
 	border: 0;
 	border-bottom: solid 1px #000078;
 }
